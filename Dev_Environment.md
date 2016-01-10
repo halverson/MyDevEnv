@@ -6,16 +6,25 @@
 - git
 - node.js
 - npm
-- MAMP (or similar Apache & MySQL stack)
+- Latest Python
 
 ## The Editors
 
-- Brackets
 - Atom
+- Brackets
+
+## Atom Packages
+
+- autoclose-html
+- linter
+- linter-flake8
+- linter-js-standard
+- script
+- w3c-validation
 
 ## Task Runner
 
-- Broccoli.js
+- Gulp.js
 
 ## CLI Helpers / Tools
 
@@ -31,6 +40,5 @@
 
 ## Nice To Have
 
-- Latest Python installed
 - Firefox, for its dev tools
 - Graphical git client (GitHub, SourceTree etc.)
