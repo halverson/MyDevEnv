@@ -16,6 +16,7 @@
 ## Atom Packages
 
 - autoclose-html
+- autoprefixer
 - linter
 - linter-flake8
 - linter-js-standard
