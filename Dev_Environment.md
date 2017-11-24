@@ -17,6 +17,9 @@
 
 - autoclose-html
 - autoprefixer
+- atom-beautify
+- atom-wrap-in-tag
+- change-case
 - linter
 - linter-flake8
 - linter-js-standard
@@ -36,6 +39,7 @@
 ## Compilers / Pre-Processors
 
 - sass / scss
+- stylus
 - jade-lang
 - handlebars
 
